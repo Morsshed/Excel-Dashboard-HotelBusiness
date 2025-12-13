@@ -14,13 +14,13 @@ Hotel Management
 #### Description
 This image demonstrates a seasonality analysis for Airbnb bookings and revenue, showing how business performance fluctuates across different months or seasons.
 
-Visualizes monthly or seasonal trends in bookings
+► Visualizes monthly or seasonal trends in bookings
 
-Highlights peak and off-peak periods
+► Highlights peak and off-peak periods
 
-Helps in planning pricing, promotions, and inventory
+► Helps in planning pricing, promotions, and inventory
 
-Supports data-driven decisions for maximizing revenue
+► Supports data-driven decisions for maximizing revenue
 
 This dashboard is useful for Airbnb or hotel businesses to optimize operations and strategic planning based on seasonal trends.
 
@@ -31,11 +31,11 @@ This dashboard is useful for Airbnb or hotel businesses to optimize operations a
 
 This image shows the total revenue earned for Airbnb listings over a specific period. It helps visualize business performance and track income trends.
 
-Displays revenue trends over time
+► Displays revenue trends over time
 
-Identifies high-performing periods and listings
+► Identifies high-performing periods and listings
 
-Supports financial forecasting and planning
+► Supports financial forecasting and planning
 
 Enables actionable insights for revenue optimization
 
@@ -48,11 +48,11 @@ Enables actionable insights for revenue optimization
 #### Description
 This image visualizes the comparison between revenue earned and losses incurred for Airbnb listings. It provides insights into profitability and operational efficiency.
 
-Compares revenue and loss trends over time
+► Compares revenue and loss trends over time
 
-Highlights periods of higher loss or lower revenue
+► Highlights periods of higher loss or lower revenue
 
-Supports financial and operational decision-making
+► Supports financial and operational decision-making
 
 Helps identify areas to reduce loss and optimize profitability
 
@@ -62,11 +62,11 @@ Helps identify areas to reduce loss and optimize profitability
 #### Description
 This dashboard visualizes the relationship between transient customers and their preferred booking channels.
 
-Compares booking behavior of transient vs. repeat customers
+► Compares booking behavior of transient vs. repeat customers
 
-Highlights the most popular booking channels
+► Highlights the most popular booking channels
 
-Supports marketing and channel optimization strategies
+► Supports marketing and channel optimization strategies
 
 Helps improve customer acquisition and retention
 
@@ -75,11 +75,11 @@ Helps improve customer acquisition and retention
 #### Description
 This dashboard focuses on losses incurred in hotel operations, helping identify patterns and areas of inefficiency.
 
-Visualizes total losses across different hotels or listings
+► Visualizes total losses across different hotels or listings
 
-Highlights high-loss periods and locations
+► Highlights high-loss periods and locations
 
-Supports operational decision-making to reduce losses
+► Supports operational decision-making to reduce losses
 
 Enables identification of key factors contributing to financial inefficiencies
 
