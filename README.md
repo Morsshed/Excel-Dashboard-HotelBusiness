@@ -24,9 +24,20 @@ Supports data-driven decisions for maximizing revenue
 
 This dashboard is useful for Airbnb or hotel businesses to optimize operations and strategic planning based on seasonal trends.
 
-### Customer Type Vs Revenue
+### Types Vs Revenue
+![Airbnb Revenue Earned Dashboard](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/Revenue%20Earned.png)
 
 #### Description
+
+This image shows the total revenue earned for Airbnb listings over a specific period. It helps visualize business performance and track income trends.
+
+Displays revenue trends over time
+
+Identifies high-performing periods and listings
+
+Supports financial forecasting and planning
+
+Enables actionable insights for revenue optimization
 
 ### Drill Down
 
