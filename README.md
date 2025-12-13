@@ -84,6 +84,7 @@ This dashboard focuses on losses incurred in hotel operations, helping identify 
 Enables identification of key factors contributing to financial inefficiencies
 
 ### Original Dataset
-[Airbnb Open Data Kaggle Code](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/code)
+Direct Link to [Airbnb Open Data Kaggle Code](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/code)
+
 ![Original Dataset Snapshot](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/Original%20dataset.png)
 
