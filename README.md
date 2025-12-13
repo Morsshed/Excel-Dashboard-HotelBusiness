@@ -44,8 +44,17 @@ Enables actionable insights for revenue optimization
 #### Description
 
 ### Revenue Vs Loss
-
+![Revenue vs Loss Dashboard](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/RevenueVsLoss.png)
 #### Description
+This image visualizes the comparison between revenue earned and losses incurred for Airbnb listings. It provides insights into profitability and operational efficiency.
+
+Compares revenue and loss trends over time
+
+Highlights periods of higher loss or lower revenue
+
+Supports financial and operational decision-making
+
+Helps identify areas to reduce loss and optimize profitability
 
 ### Revenue Channels
 
