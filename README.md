@@ -9,16 +9,40 @@ Hotel Management
 #### Recommendations
 
 ### Seosanalisty and Trend
+![Airbnb Seasonality Analysis](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/Seasonality.png)
+
+#### Description
+This image demonstrates a seasonality analysis for Airbnb bookings and revenue, showing how business performance fluctuates across different months or seasons.
+
+Visualizes monthly or seasonal trends in bookings
+
+Highlights peak and off-peak periods
+
+Helps in planning pricing, promotions, and inventory
+
+Supports data-driven decisions for maximizing revenue
+
+This dashboard is useful for Airbnb or hotel businesses to optimize operations and strategic planning based on seasonal trends.
 
 ### Customer Type Vs Revenue
 
+#### Description
+
 ### Drill Down
+
+#### Description
 
 ### Revenue Vs Loss
 
+#### Description
+
 ### Revenue Channels
 
+#### Description
+
 ### Loss in Hotels
+
+#### Description
 
 ### Original Dataset
 [Airbnb Open Data Kaggle Code](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/code)
