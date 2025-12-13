@@ -57,8 +57,18 @@ Supports financial and operational decision-making
 Helps identify areas to reduce loss and optimize profitability
 
 ### Revenue Channels
+![Transient Customer vs Booking Channels](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/Transient%20CustomerVsBookingChannels.png)
 
 #### Description
+This dashboard visualizes the relationship between transient customers and their preferred booking channels.
+
+Compares booking behavior of transient vs. repeat customers
+
+Highlights the most popular booking channels
+
+Supports marketing and channel optimization strategies
+
+Helps improve customer acquisition and retention
 
 ### Loss in Hotels
 ![Loss in Hotels Dashboard](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/LossInHotels.png)
