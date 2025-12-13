@@ -61,8 +61,17 @@ Helps identify areas to reduce loss and optimize profitability
 #### Description
 
 ### Loss in Hotels
-
+![Loss in Hotels Dashboard](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/LossInHotels.png)
 #### Description
+This dashboard focuses on losses incurred in hotel operations, helping identify patterns and areas of inefficiency.
+
+Visualizes total losses across different hotels or listings
+
+Highlights high-loss periods and locations
+
+Supports operational decision-making to reduce losses
+
+Enables identification of key factors contributing to financial inefficiencies
 
 ### Original Dataset
 [Airbnb Open Data Kaggle Code](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/code)
