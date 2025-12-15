@@ -5,7 +5,7 @@ Hotel Management
 
 Airbnb is experiencing a significant gap between expected revenue and actual revenue earned, driven primarily by booking cancellations, no-shows, and flexible deposit policies. Despite strong booking demand across multiple periods, a large portion of revenue is lost due to high-risk customer segments, booking channels, and deposit types. The organization needs to identify the root causes of revenue leakage and determine which operational and customer-level factors most strongly impact revenue loss.
 
-## nBrief Context
+## Brief Context
 
 An analytical dashboard was developed to evaluate tri-annual booking data, comparing expected revenue, earned revenue, and lost revenue across dimensions such as customer type, booking channel, hotel type, deposit policy, and booking status. The analysis highlights patterns in cancellations and no-deposit bookings, particularly among transient customers and online travel agent channels, revealing key drivers of financial underperformance.
 
