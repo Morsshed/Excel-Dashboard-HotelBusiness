@@ -1,6 +1,6 @@
 # Root-Cause-Analysis
 Hotel Management
-
+  
 ## Problem Statement
 
 Airbnb is experiencing a significant gap between expected revenue and actual revenue earned, driven primarily by booking cancellations, no-shows, and flexible deposit policies. Despite strong booking demand across multiple periods, a large portion of revenue is lost due to high-risk customer segments, booking channels, and deposit types. The organization needs to identify the root causes of revenue leakage and determine which operational and customer-level factors most strongly impact revenue loss.
@@ -11,25 +11,25 @@ An analytical dashboard was developed to evaluate tri-annual booking data, compa
 
 ## Key Business Questions
 
-What is the magnitude of revenue loss compared to expected revenue?
+► What is the magnitude of revenue loss compared to expected revenue?
 
-Which customer types contribute the most to revenue loss?
+► Which customer types contribute the most to revenue loss?
 
-How do deposit policies (no deposit vs refundable/non-refundable) impact cancellations and revenue leakage?
+► How do deposit policies (no deposit vs refundable/non-refundable) impact cancellations and revenue leakage?
 
-Which booking channels are associated with the highest cancellation rates and revenue loss?
+► Which booking channels are associated with the highest cancellation rates and revenue loss?
 
-Are certain hotel types (city vs resort) more vulnerable to revenue loss?
+► Are certain hotel types (city vs resort) more vulnerable to revenue loss?
 
-Do revenue earned and revenue lost follow similar seasonal patterns?
+► Do revenue earned and revenue lost follow similar seasonal patterns?
 
-Which booking statuses (canceled, no-show, check-out) drive the most loss?
+► Which booking statuses (canceled, no-show, check-out) drive the most loss?
 
-How does transient customer behavior differ from group or contract customers?
+► How does transient customer behavior differ from group or contract customers?
 
-What combinations of customer type, deposit type, and booking channel create the highest risk?
+► What combinations of customer type, deposit type, and booking channel create the highest risk?
 
-What policy or pricing changes can reduce revenue loss without negatively impacting bookings?
+► What policy or pricing changes can reduce revenue loss without negatively impacting bookings?
 
 
 ## Excel Interactive Dashboard (Snapshot)
@@ -37,63 +37,63 @@ What policy or pricing changes can reduce revenue loss without negatively impact
 
 #### Findings
 
-Expected revenue ($42.7M) is significantly higher than revenue earned ($29.6M), indicating substantial leakage.
+● Expected revenue ($42.7M) is significantly higher than revenue earned ($29.6M), indicating substantial leakage.
 
-Revenue loss totals $13.1M, accounting for ~31% of expected revenue.
+● Revenue loss totals $13.1M, accounting for ~31% of expected revenue.
 
-44,224 bookings were canceled, a major driver of revenue loss.
+● 44,224 bookings were canceled, a major driver of revenue loss.
 
-Revenue earned and revenue lost peak during the same months, suggesting demand volatility rather than seasonal decline.
+● Revenue earned and revenue lost peak during the same months, suggesting demand volatility rather than seasonal decline.
 
-Transient customers generate the highest revenue earned overall.
+● Transient customers generate the highest revenue earned overall.
 
-Transient customers also account for the highest revenue loss, indicating higher cancellation/no-show risk.
+● Transient customers also account for the highest revenue loss, indicating higher cancellation/no-show risk.
 
-No-deposit bookings contribute the majority of revenue loss.
+● No-deposit bookings contribute the majority of revenue loss.
 
-Refundable deposits show higher revenue earned compared to no-deposit bookings.
+● Refundable deposits show higher revenue earned compared to no-deposit bookings.
 
-Online Travel Agents (OTAs) generate high revenue but also drive the largest revenue loss.
+● Online Travel Agents (OTAs) generate high revenue but also drive the largest revenue loss.
 
-Direct booking channels have lower revenue loss compared to OTAs.
+● Direct booking channels have lower revenue loss compared to OTAs.
 
-City hotels experience higher revenue loss than resort hotels.
+● City hotels experience higher revenue loss than resort hotels.
 
-Resort hotels show better revenue retention despite lower booking volume.
+● Resort hotels show better revenue retention despite lower booking volume.
 
-No-deposit policy dominates booking behavior, especially among transient customers.
+● No-deposit policy dominates booking behavior, especially among transient customers.
 
-Check-out and no-show statuses contribute more to loss than check-in cancellations.
+● Check-out and no-show statuses contribute more to loss than check-in cancellations.
 
-Transient-party customers contribute minimal revenue loss compared to transient customers.
+● Transient-party customers contribute minimal revenue loss compared to transient customers.
 
-Group and contract customers show lower cancellation rates and revenue loss.
+● Group and contract customers show lower cancellation rates and revenue loss.
 
-Corporate bookings contribute moderate revenue with relatively controlled loss.
+● Corporate bookings contribute moderate revenue with relatively controlled loss.
 
-Refundable deposit types still incur losses, but significantly less than no-deposit types.
+● Refundable deposit types still incur losses, but significantly less than no-deposit types.
 
-Revenue loss is concentrated in specific booking channels, rather than evenly distributed.
+● Revenue loss is concentrated in specific booking channels, rather than evenly distributed.
 
-Customer type and deposit policy together explain most revenue leakage, making them key root-cause drivers.
+● Customer type and deposit policy together explain most revenue leakage, making them key root-cause drivers.
 
 
 #### Recommendations
 
 
-Introduce minimum deposit requirements for bookings made via Online Travel Agents to reduce cancellations.
+✓ Introduce minimum deposit requirements for bookings made via Online Travel Agents to reduce cancellations.
 
-Incentivize refundable or partial-deposit options instead of no-deposit bookings.
+✓ Incentivize refundable or partial-deposit options instead of no-deposit bookings.
 
-Strengthen cancellation policies for transient customers, especially during peak months.
+✓ Strengthen cancellation policies for transient customers, especially during peak months.
 
-Promote direct bookings through discounts or loyalty benefits to reduce OTA-driven losses.
+✓ Promote direct bookings through discounts or loyalty benefits to reduce OTA-driven losses.
 
-Apply stricter no-show penalties for no-deposit and OTA bookings.
+✓ Apply stricter no-show penalties for no-deposit and OTA bookings.
 
-Focus marketing on group and contract customers, as they demonstrate lower revenue loss.
+✓ Focus marketing on group and contract customers, as they demonstrate lower revenue loss.
 
-Implement predictive cancellation risk scoring based on customer type, channel, and deposit behavior.
+✓ Implement predictive cancellation risk scoring based on customer type, channel, and deposit behavior.
 
 ### Seosanalisty and Trend
 ![Airbnb Seasonality Analysis](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/Seasonality.png)
@@ -101,13 +101,13 @@ Implement predictive cancellation risk scoring based on customer type, channel, 
 #### Description
 This image demonstrates a seasonality analysis for Airbnb bookings and revenue, showing how business performance fluctuates across different months or seasons.
 
-► Visualizes monthly or seasonal trends in bookings
+○ Visualizes monthly or seasonal trends in bookings
 
-► Highlights peak and off-peak periods
+○ Highlights peak and off-peak periods
 
-► Helps in planning pricing, promotions, and inventory
+○ Helps in planning pricing, promotions, and inventory
 
-► Supports data-driven decisions for maximizing revenue
+○ Supports data-driven decisions for maximizing revenue
 
 This dashboard is useful for Airbnb or hotel businesses to optimize operations and strategic planning based on seasonal trends.
 
@@ -118,13 +118,13 @@ This dashboard is useful for Airbnb or hotel businesses to optimize operations a
 
 This image shows the total revenue earned for Airbnb listings over a specific period. It helps visualize business performance and track income trends.
 
-► Displays revenue trends over time
+○ Displays revenue trends over time
 
-► Identifies high-performing periods and listings
+○ Identifies high-performing periods and listings
 
-► Supports financial forecasting and planning
+○ Supports financial forecasting and planning
 
-Enables actionable insights for revenue optimization
+○ Enables actionable insights for revenue optimization
 
 ### Drill Down
 
@@ -135,13 +135,13 @@ Enables actionable insights for revenue optimization
 #### Description
 This image visualizes the comparison between revenue earned and losses incurred for Airbnb listings. It provides insights into profitability and operational efficiency.
 
-► Compares revenue and loss trends over time
+○ Compares revenue and loss trends over time
 
-► Highlights periods of higher loss or lower revenue
+○ Highlights periods of higher loss or lower revenue
 
-► Supports financial and operational decision-making
+○ Supports financial and operational decision-making
 
-Helps identify areas to reduce loss and optimize profitability
+○ Helps identify areas to reduce loss and optimize profitability
 
 ### Revenue Channels
 ![Transient Customer vs Booking Channels](https://raw.githubusercontent.com/Morsshed/Excel-Dashboard-HotelBusiness/main/ExcelImages/Transient%20CustomerVsBookingChannels.png)
@@ -149,11 +149,11 @@ Helps identify areas to reduce loss and optimize profitability
 #### Description
 This dashboard visualizes the relationship between transient customers and their preferred booking channels.
 
-► Compares booking behavior of transient vs. repeat customers
+○ Compares booking behavior of transient vs. repeat customers
 
-► Highlights the most popular booking channels
+○ Highlights the most popular booking channels
 
-► Supports marketing and channel optimization strategies
+○ Supports marketing and channel optimization strategies
 
 Helps improve customer acquisition and retention
 
@@ -162,13 +162,13 @@ Helps improve customer acquisition and retention
 #### Description
 This dashboard focuses on losses incurred in hotel operations, helping identify patterns and areas of inefficiency.
 
-► Visualizes total losses across different hotels or listings
+○ Visualizes total losses across different hotels or listings
 
-► Highlights high-loss periods and locations
+○ Highlights high-loss periods and locations
 
-► Supports operational decision-making to reduce losses
+○ Supports operational decision-making to reduce losses
 
-Enables identification of key factors contributing to financial inefficiencies
+○ Enables identification of key factors contributing to financial inefficiencies
 
 ### Original Dataset
 Direct Link to [Airbnb Open Data Kaggle Code](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata/code)
